@@ -1,4 +1,4 @@
 # Learning Akka Homework
 
-## homework1
+1. ## homework1
 ### Store last string which it was sent
